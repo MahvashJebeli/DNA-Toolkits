@@ -1,4 +1,4 @@
-## Developing DNA and Genomic toolkits with Python.
+## DNA and Genomic toolkits developed with Python.
 * DNA toolkit: Counting nucleotides, Transcription, Reverse Compliment, GC-content calculations, Translating DNA into amino acids, and Finding proteins in DNA Sequence.
 * Genomic toolkit: Seach for k-mers, to be continued!
 * Rosalind problems
